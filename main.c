@@ -1,4 +1,5 @@
 #include <studio.h>
+#include <string.h>
 
 int main ()
 {
